@@ -1,0 +1,10 @@
+{
+    "public_key": "-----BEGIN PUBLIC KEY-----\nMIICITANBgkqhkiG9w0BAQEFAAOCAg4AMIICCQKCAQEAlaH6wo8wKpboGd7+T6bo\nTEspdZ9si3t0oTqCw+889eb6ZZPylyw36pp0Nesh9MkYS+2EFXcsR00JsT8T45fo\noxviuve3TRlxqHyx+Dt+aMCSwjSJzt2j5jFIimBHn7kl1MxkLjfsHhUmTxwx557o\nATgOXH/PJ4km0rf3B48V7nCbOAfeAl274gF6Xh3YRMoeC9I2ivHhVs8phXtCP2Gf\nmSiF3hRaUbrbTjMqTj/F+W8RVzW4ADWPlYoikdsnF3BxVhe/ZTr2It7wVjHw5n8O\npGnW8vigcJpKrGhQL3mvP+FDFMb3KORJ7nM2WI3U/y9o4GkxRV25BOUKtxXHpkhz\nnwKCAQAOJCcUKi6KHsdTbErxdWjl1G8lX/nuBgFQsJ0NHIL4JVIthUmwrUnzx7w2\nc1DD6cNhTqo8m34Ra0gufgrFIQMcCDKcX57RkV2KqWaiPt6UTIC0eI+c/Qn+5qZv\n9y9t7qaoMtVTFGmngYIAoixVkhnfVuZW2dSGsyEs8UqxaXc1iL9OKGoq/6vZhDro\nsa8LB3xGKYZ1uEo1PsHlGGfaEhS+Ni8aSBwKizEe3Y4uINZXL7PPzzRdnjVZqFQD\n8OUdJ5xuPxS0+px3Zx9J3HKunG+yY2R4t1BjtuHpQg4G9jDQ/sIaHqr06J3hHv8T\ns1CVszDPer0gC9AquvcP00ihxQZ5\n",
+    "country": "US",
+    "organization": "ExampleCorp",
+    "locality": "San Francisco",
+    "state": "California",
+    "common_name": "client1",
+    "email": "client1@example.com",
+    "organization_unit": "IT"
+}
